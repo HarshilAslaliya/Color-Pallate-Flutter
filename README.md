@@ -27,8 +27,13 @@ These are Color Pallate App in which you can generate a multiple color pallate.
     
 ## 📲 Screenshots
 
+### Light Theme
 <img align="left" src="https://user-images.githubusercontent.com/121867931/235821597-452cb870-7611-434f-bc31-36f60cde6cd9.jpeg" width="220px" height="520px">
-<img align="left" src="https://user-images.githubusercontent.com/121867931/235821603-8622b406-c3f5-4c4c-83fe-ec869783ae19.jpeg" width="220px" height="520px">
+<img src="https://user-images.githubusercontent.com/121867931/235821603-8622b406-c3f5-4c4c-83fe-ec869783ae19.jpeg" width="220px" height="520px">
+
+---
+
+### Dark Theme
 <img align="left" src="https://user-images.githubusercontent.com/121867931/235821608-7bcecb20-eb16-4280-bdb7-bc9b16e76dd9.jpeg" width="220px" height="520px">
 <img src="https://user-images.githubusercontent.com/121867931/235821610-2e0b4d48-6734-4532-afe9-b1be2a4d671c.jpeg" width="220px" height="520px">
 
